@@ -1,0 +1,212 @@
+solid Wall
+facet normal -0 -1 -0
+ outer loop
+  vertex 1e-06 0.34 1
+  vertex 2.000001 0.34 1
+  vertex 1e-06 0.34 2.54
+ endloop
+endfacet
+facet normal -0 -1 -0
+ outer loop
+  vertex 1e-06 0.34 2.54
+  vertex 2.000001 0.34 1
+  vertex 2.000001 0.34 2.54
+ endloop
+endfacet
+facet normal -1 0 -0
+ outer loop
+  vertex 1e-06 0.66 1
+  vertex 1e-06 0.34 1
+  vertex 1e-06 0.66 2.54
+ endloop
+endfacet
+facet normal -1 0 0
+ outer loop
+  vertex 1e-06 0.66 2.54
+  vertex 1e-06 0.34 1
+  vertex 1e-06 0.34 2.54
+ endloop
+endfacet
+facet normal -0 1 0
+ outer loop
+  vertex 2.000001 0.66 1
+  vertex 1e-06 0.66 1
+  vertex 2.000001 0.66 2.54
+ endloop
+endfacet
+facet normal -0 1 0
+ outer loop
+  vertex 2.000001 0.66 2.54
+  vertex 1e-06 0.66 1
+  vertex 1e-06 0.66 2.54
+ endloop
+endfacet
+facet normal 0 -0 1
+ outer loop
+  vertex 25.5 1 1.54
+  vertex 25.5 4.52971e-14 1.54
+  vertex 26.5 1 1.54
+ endloop
+endfacet
+facet normal 0 -0 1
+ outer loop
+  vertex 26.5 1 1.54
+  vertex 25.5 4.52971e-14 1.54
+  vertex 26.5 4.52971e-14 1.54
+ endloop
+endfacet
+facet normal -0.061700422 -0.99809474 0
+ outer loop
+  vertex 5 0.34 1
+  vertex 5.7 0.29672727 1
+  vertex 5 0.34 2.54
+ endloop
+endfacet
+facet normal -0.061700396 -0.99809474 1.2291546e-08
+ outer loop
+  vertex 5 0.34 2.54
+  vertex 5.7 0.29672727 1
+  vertex 10.5 4.5519144e-14 2.54
+ endloop
+endfacet
+facet normal -0.061700404 -0.99809474 0
+ outer loop
+  vertex 10.5 4.5519144e-14 2.54
+  vertex 5.7 0.29672727 1
+  vertex 10.5 4.5519144e-14 0.05882353
+ endloop
+endfacet
+facet normal -0 -1 -0
+ outer loop
+  vertex 2 0.34 1
+  vertex 5 0.34 1
+  vertex 2 0.34 2.54
+ endloop
+endfacet
+facet normal -0 -1 -0
+ outer loop
+  vertex 2 0.34 2.54
+  vertex 5 0.34 1
+  vertex 5 0.34 2.54
+ endloop
+endfacet
+facet normal -0 1 0
+ outer loop
+  vertex 5 0.66 1
+  vertex 2 0.66 1
+  vertex 5 0.66 2.54
+ endloop
+endfacet
+facet normal -0 1 0
+ outer loop
+  vertex 5 0.66 2.54
+  vertex 2 0.66 1
+  vertex 2 0.66 2.54
+ endloop
+endfacet
+facet normal 0 -1 2.220446e-16
+ outer loop
+  vertex 25.5 4.5519144e-14 2.54
+  vertex 10.5 4.5519144e-14 2.54
+  vertex 25.5 4.52971e-14 1.54
+ endloop
+endfacet
+facet normal -1.4802974e-17 -1 0
+ outer loop
+  vertex 25.5 4.52971e-14 1.54
+  vertex 10.5 4.5519144e-14 2.54
+  vertex 10.5 4.5519144e-14 0.05882353
+ endloop
+endfacet
+facet normal -9.845019e-18 -1 -5.0209628e-17
+ outer loop
+  vertex 25.5 4.52971e-14 1.54
+  vertex 10.5 4.5519144e-14 0.05882353
+  vertex 10.8 4.5519144e-14 2.220446e-16
+ endloop
+endfacet
+facet normal -0 -1 -1.4418481e-16
+ outer loop
+  vertex 10.8 4.5519144e-14 2.220446e-16
+  vertex 26.5 4.5519144e-14 2.220446e-16
+  vertex 25.5 4.52971e-14 1.54
+ endloop
+endfacet
+facet normal 0 -1 -1.4418481e-16
+ outer loop
+  vertex 25.5 4.52971e-14 1.54
+  vertex 26.5 4.5519144e-14 2.220446e-16
+  vertex 26.5 4.52971e-14 1.54
+ endloop
+endfacet
+facet normal 1 -0 0
+ outer loop
+  vertex 25.5 1 1.54
+  vertex 25.5 1 2.54
+  vertex 25.5 4.52971e-14 1.54
+ endloop
+endfacet
+facet normal 1 -0 0
+ outer loop
+  vertex 25.5 4.52971e-14 1.54
+  vertex 25.5 1 2.54
+  vertex 25.5 4.5519144e-14 2.54
+ endloop
+endfacet
+facet normal -0 1 0
+ outer loop
+  vertex 26.5 1 1.54
+  vertex 26.5 1 2.220446e-16
+  vertex 25.5 1 1.54
+ endloop
+endfacet
+facet normal 0 1 -0
+ outer loop
+  vertex 25.5 1 1.54
+  vertex 26.5 1 2.220446e-16
+  vertex 10.8 1 2.220446e-16
+ endloop
+endfacet
+facet normal -0 1 0
+ outer loop
+  vertex 25.5 1 1.54
+  vertex 10.8 1 2.220446e-16
+  vertex 10.5 1 0.05882353
+ endloop
+endfacet
+facet normal 0 1 0
+ outer loop
+  vertex 10.5 1 0.05882353
+  vertex 10.5 1 2.54
+  vertex 25.5 1 1.54
+ endloop
+endfacet
+facet normal 0 1 0
+ outer loop
+  vertex 25.5 1 1.54
+  vertex 10.5 1 2.54
+  vertex 25.5 1 2.54
+ endloop
+endfacet
+facet normal -0.061700404 0.99809474 0
+ outer loop
+  vertex 10.5 1 0.05882353
+  vertex 5.7 0.7032727 1
+  vertex 10.5 1 2.54
+ endloop
+endfacet
+facet normal -0.06170039 0.99809474 -2.4583091e-08
+ outer loop
+  vertex 10.5 1 2.54
+  vertex 5.7 0.7032727 1
+  vertex 5 0.66 2.54
+ endloop
+endfacet
+facet normal -0.06170034 0.99809474 0
+ outer loop
+  vertex 5 0.66 2.54
+  vertex 5.7 0.7032727 1
+  vertex 5 0.66 1
+ endloop
+endfacet
+endsolid Wall
